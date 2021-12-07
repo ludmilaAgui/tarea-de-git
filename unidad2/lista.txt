@@ -1,3 +1,7 @@
 rosa
 girasol
 margarita
+vaso 
+plato
+tomate 
+piña 
